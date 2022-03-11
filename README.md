@@ -9,7 +9,6 @@
 
 ### This repo is document my learning and my understanding of javascript
 
-- The topics are taken from [Link](https://github.com/sudheerj/javascript-interview-questions)
 - Contributions are most welcomed, repo can be forked and PR can be raised for contribution.
 
 ## Table of Contents
