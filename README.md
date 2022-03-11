@@ -20,7 +20,7 @@
 
 ## **Follow/Contact Me**
 
-- **Twitter** - [@jayasrikark](https://bit.ly/znjs-twitter)
-- **LinkedIn** - [jayasrikark](https://bit.ly/znjs-linkedin)
-- **Website** - [JayaSrikar K](https://bit.ly/znjs-netlify)
-- **Profile** - [JayaSrikar](https://bit.ly/jayasrikar)
+- **Twitter** - [@jayasrikark](https://bit.ly/znjs-twitter){:target="\_blank"}
+- **LinkedIn** - [jayasrikark](https://bit.ly/znjs-linkedin){:target="\_blank"}
+- **Website** - [JayaSrikar K](https://bit.ly/znjs-netlify){:target="\_blank"}
+- **Profile** - [JayaSrikar](https://bit.ly/jayasrikar){:target="\_blank"}
