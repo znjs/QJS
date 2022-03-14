@@ -16,6 +16,7 @@
 | File          | Topic                                              |
 | ------------- | -------------------------------------------------- |
 | [JS1](JS1.md) | Different ways to create an object in javascript ? |
+| [JS2](JS2.md) | What is prototype chain?                           |
 
 ## **Follow/Contact Me**
 
